@@ -1,0 +1,18 @@
+*Beaver, W. H. (1966), “Financial Ratios as Predictors of Failure,” Journal of Accounting Research, 4, 71-111
+*Altman, E. I. (1993), Corporate Financial Distress and Bankruptcy: A Complete Guide to P redicting and Avoiding
+Distress and P rofiting from Bankruptcy, Second Edition, New York: John Wiley and Sons In
+*Merton, R. (1973), “On the Pricing of Corporate debt: The Risk Structure of Interest Rates", Journal of Finance, Vol.
+29, No. 2, pp.449-470.
+Bankruptcy Prediction Using Deep Learning Approach Based on Borderline SMOTE Salima Smiti1 & Makram
+-Springer Science+Business Media, LLC, part of Springer Nature 2020
+* Bankruptcy forecasting: An empirical comparison of AdaBoost and neural networks ☆ Esteban Alfaro a,⁎, Noelia 
+García a , Matías Gámez a , David Elizondo 2008
+*** Financial Distress Prediction Using Adaboost and Bagging in Pakistan Stock Exchange 
+Fayaz Hussain TUNIO1 , Yi DING2 , Amad Nabi AGHA3 , Kinza AGHA4 , Hafeez Ur Rehman Zubair PANHWAR5 2021
+ Machine learning models and bankruptcy prediction Flavio Barbozaa,∗ , Herbert Kimura b , Edward Altman 2017
+* 변수 및 표본 특성의 차이에 따른 건설기업 부도 머신러닝 예측모형 정확도 비교 2019 김민규
+SVM 활용한 기업부도 예측 
+딥 러닝을 활용한 재무제표 상 회계부정 탐지기법 연구
+비재무정보를 이용한 창업기업의 부실요인에 관한 실증연구 벤처창업연구
+옵션모형을 이용한 은행부실의 조기경보모형 구축 전 선 애
+생존분석과 KMV모형을 이용한 기업 부도 예측 ......>>>>>발행  년도가 다름
